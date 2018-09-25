@@ -1,4 +1,0 @@
-this is profile
-address
-aws
-azure
